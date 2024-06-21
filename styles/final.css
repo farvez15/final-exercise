@@ -1,0 +1,13 @@
+h2{
+    color: crimson;
+    font-weight: bolder;
+}
+img{
+    width: 100px;
+    border: 3px solid black;
+}
+.health{
+    border: 3px solid brown;
+    background-color: cornflowerblue;
+    width: 300px;
+}
